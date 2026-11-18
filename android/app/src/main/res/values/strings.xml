@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">muzikit</string>
+    <string name="widget_desc">şarkı adı ve önceki / oynat / sonraki</string>
+</resources>
